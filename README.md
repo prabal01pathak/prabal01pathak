@@ -1,5 +1,28 @@
 [![prabal pathak](icons/prabal@.gif)](https://linkedin.com/in/prabal-pathak-9a27451b6)
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/prabal01pathak/prabal01pathak">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabal01pathak&theme=radical&langs_count=3"/>
+</a>
+
+<a href="https://github.com/prabal01pathak/prabal01pathak">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=prabal01pathak&theme=radical&line_height=27"/>
+</a>
+
+<a href="https://github.com/prabal01pathak/prabal01pathak">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=Zipper"/>
+</a>
+
+<a href="https://github.com/prabal01pathak/prabal01pathak">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=Email_sender"/>
+</a>
+
+
+<a href="https://github.com/prabal01pathak/prabal01pathak">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=prabal01pathak"/>
+</a>
+
 # Hello,Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
@@ -29,29 +52,6 @@
 ![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/prabal01pathak/prabal01pathak">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabal01pathak&theme=radical&langs_count=3"/>
-</a>
-
-<a href="https://github.com/prabal01pathak/prabal01pathak">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=prabal01pathak&theme=radical&line_height=27"/>
-</a>
-
-<a href="https://github.com/prabal01pathak/prabal01pathak">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=Zipper"/>
-</a>
-
-<a href="https://github.com/prabal01pathak/prabal01pathak">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=Email_sender"/>
-</a>
-
-
-<a href="https://github.com/prabal01pathak/prabal01pathak">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=prabal01pathak"/>
-</a>
 
 # Follow me on
 <p>
