@@ -3,10 +3,9 @@
 # Hello,Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- 👋 Hi, I’m -prabal pathak
+- 👋 I’m -prabal pathak
 - 👀 I’m interested in backend - coding,ML,DL
 - 🌱 I’m currently learning -  c++
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me  -  [![twitter][1.2]][1] or on  [![linkedin][1.3]][2]
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
