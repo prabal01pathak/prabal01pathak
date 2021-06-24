@@ -36,7 +36,7 @@
 </a>
 
 <a href="https://github.com/prabal01pathak/prabal01pathak">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=prabal01pathak&theme=radical&line_height=27"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=prabal01pathak&theme=radical"/>
 </a>
 
 <a href="https://github.com/prabal01pathak/prabal01pathak">
