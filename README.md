@@ -10,14 +10,14 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=prabal01pathak&theme=radical&line_height=27"/>
 </a>
 
-<a href="https://github.com/prabal01pathak/prabal01pathak">
+<a href="https://github.com/prabal01pathak/zipper">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=Zipper"/>
 </a>
 
-<a href="https://github.com/prabal01pathak/prabal01pathak">
+<a href="https://github.com/prabal01pathak/NewsFeed-Project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=newsfeed-project"/>
 </a>
-<a href="https://github.com/prabal01pathak/prabal01pathak">
+<a href="https://github.com/prabal01pathak/Email_sender">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=Email_sender"/>
 </a>
 
