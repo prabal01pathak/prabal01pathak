@@ -6,7 +6,7 @@
 - 👋 I’m -prabal pathak
 - 👀 I’m interested in backend - coding,ML,DL
 - 🌱 I’m currently learning -  c++
-- 📫 How to reach me  -  [![twitter][1.2]][1] or on  [![linkedin][1.3]][2]
+- 📫 you can reach to me  -  [![twitter][1.2]][1] or on  [![linkedin][1.3]][2]
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [1]: https://twitter.com/PrabalP56179978
@@ -27,6 +27,7 @@
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VScode-informational?style=flat&logo=Visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
