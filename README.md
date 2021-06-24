@@ -6,8 +6,10 @@
 - 🌱 I’m currently learning -  c++
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me - 
-<p>
+
+<img height="30" src="icons/gmail.png"> <div>prabal01pathak@gmail.com</div>
+
+
 <a href="https://twitter.com/PrabalP56179978"><img height="30" src="icons/twitter.jpg"></a>
-<a href="linkedin.com/in/prabal-pathak-9a27451b6"><img height="30" src="icons/linkedin.png"></a>
-<a href="prabal01pathak@gmail.com"><img height= "30" src="icons/gmail.png"></a>
+<a href="https://linkedin.com/in/prabal-pathak-9a27451b6"><img height="30" src="icons/linkedin.png"></a>
 </p>
