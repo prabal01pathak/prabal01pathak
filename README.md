@@ -15,6 +15,9 @@
 </a>
 
 <a href="https://github.com/prabal01pathak/prabal01pathak">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=newsfeed-project"/>
+</a>
+<a href="https://github.com/prabal01pathak/prabal01pathak">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=Email_sender"/>
 </a>
 
