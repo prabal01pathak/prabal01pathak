@@ -1,4 +1,4 @@
-[![prabal pathak](icons/prabal.gif)](https://linkedin.com/in/prabal-pathak-9a27451b6)
+[![prabal pathak](icons/prabal@.gif)](https://linkedin.com/in/prabal-pathak-9a27451b6)
 
 # Hello,Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
