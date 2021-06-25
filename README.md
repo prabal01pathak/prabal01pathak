@@ -26,21 +26,18 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=prabal01pathak"/>
 </a>
 
-# Hello,Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello,Folks! <img src="icons/wave.gif" width="30px">
 
 
 - 👋 I’m -prabal pathak
 - 👀 I’m interested in backend - coding,ML,DL
 - 🌱 I’m currently learning -  c++
-- 📫 you can reach to me  -  [![twitter][1.2]][1] or on  [![linkedin][1.3]][2]
+- 📫 you can reach to me  -  [![twitter][1.2]][1] or on  [![linkedin](icons/linkedin-3-16.png)](https://linkedin.com/in/prabal-pathak-9a27451b6)
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [1]: https://twitter.com/PrabalP56179978
-[1.3]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-[2]: https://linkedin.com/in/prabal-pathak-9a27451b6
 
-<img height="30" src="icons/gmail.png"> <div>prabal01pathak@gmail.com</div>
-
+<img height="15" src="icons/gmail.png"><div> prabal01pathak@gmail.com</div>
 
 ## 🔧 Technologies & Tools
 
