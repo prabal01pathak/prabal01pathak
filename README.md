@@ -37,7 +37,7 @@
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [1]: https://twitter.com/PrabalP56179978
 
-<img height="15" src="icons/gmail.png"><div> prabal01pathak@gmail.com</div>
+- <img height="15" src="icons/gmail.png"> send mail on -  prabal01pathak@gmail.com 
 
 ## 🔧 Technologies & Tools
 
