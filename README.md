@@ -1,4 +1,3 @@
-[![prabal pathak](icons/prabal@.gif)](https://linkedin.com/in/prabal-pathak-9a27451b6)
 
 ## &#x1f4c8; GitHub Stats
 
