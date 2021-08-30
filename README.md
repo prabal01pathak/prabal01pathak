@@ -36,7 +36,7 @@
 - 🌱 I’m currently learning -  c++
 - 📫 you can reach to me  -  [![twitter][1.2]][1] or on  [![linkedin](icons/linkedin-3-16.png)](https://linkedin.com/in/prabal-pathak-9a27451b6) or <a href='https://prabal-pathak.medium.com'><img align='center' src='icons\medium.png' height=19 /></a>
 ***or***   
- <img height="15" src="icons/gmail.png" /> send mail on -  prabal01pathak@gmail.com 
+ <a href='mailto:prabal01pathak@gmail.com'><img height="15" src="icons/gmail.png" /></a>
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [1]: https://twitter.com/PrabalP56179978
