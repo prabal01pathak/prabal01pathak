@@ -1,6 +1,7 @@
 <!--- <a href='https://prabal-pathak.medium.com'>
 <img align='center' src='icons\prabal5.jpg' />
 </a> --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabal01pathak&label=Profile%20views&color=0e75b6&style=flat" alt="codewithpom" /> </p>
 
 ## &#x1f4c8; GitHub Stats
 
