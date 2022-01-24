@@ -5,27 +5,27 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/prabal01pathak/prabal01pathak">
+<!-- <a href="https://github.com/prabal01pathak/prabal01pathak">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabal01pathak&theme=radical&langs_count=3"/>
-</a>
+</a> -->
 
 <a href="https://github.com/prabal01pathak/prabal01pathak">
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=prabal01pathak&theme=radical&line_height=27"/>
 </a>
 
-<a href="https://github.com/prabal01pathak/zipper">
+<a href="https://github.com/prabal01pathak/Blue-Education-Web">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=Zipper"/>
 </a>
 
-<a href="https://github.com/prabal01pathak/NewsFeed-Project">
+<a href="https://github.com/prabal01pathak/mineWeb">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=newsfeed-project"/>
 </a>
-<a href="https://github.com/prabal01pathak/Email_sender">
+<a href="https://github.com/prabal01pathak/Zipper">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=Email_sender"/>
 </a>
 
 
-<a href="https://github.com/prabal01pathak/prabal01pathak">
+<a href="https://github.com/prabal01pathak/NewsFeed-Project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=prabal01pathak"/>
 </a>
 
