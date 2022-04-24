@@ -1,34 +1,3 @@
-<!--- <a href='https://prabal-pathak.medium.com'>
-<img align='center' src='icons\prabal5.jpg' />
-</a> --->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabal01pathak&label=Profile%20views&color=0e75b6&style=flat" alt="codewithpom" /> </p> -->
-
-## &#x1f4c8; GitHub Stats
-
-<!-- <a href="https://github.com/prabal01pathak/prabal01pathak">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabal01pathak&theme=radical&langs_count=3"/>
-</a> -->
-
-<!-- <a href="https://github.com/prabal01pathak/prabal01pathak">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=prabal01pathak&theme=radical&line_height=27"/>
-</a>
- -->
-<a href="https://github.com/prabal01pathak/Blue-Education-Web">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=Blue-Education-Web"/>
-</a>
-
-<a href="https://github.com/prabal01pathak/mineWeb">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=mineWeb"/>
-</a>
-<a href="https://github.com/prabal01pathak/Zipper">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=Zipper"/>
-</a>
-
-
-<a href="https://github.com/prabal01pathak/NewsFeed-Project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prabal01pathak&theme=radical&repo=NewsFeed-Project"/>
-</a>
-
 # Hello,Folks! <img src="icons/wave.gif" width="30px">
 
 
