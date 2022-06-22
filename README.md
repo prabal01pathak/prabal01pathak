@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning -  cloud computing.
 - 📫 you can reach to me  -  [![twitter][1.2]][1] or on  [![linkedin](icons/linkedin-3-16.png)](https://linkedin.com/in/prabal-pathak-9a27451b6) 
 
-[![Prabal's github stats](https://github-readme-stats.vercel.app/api?username=prabal01pathak&count_private=true&show_icons=true&icon_color=292759)]("https://prabals.herokuapp.com)
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
 [1]: https://twitter.com/PrabalP56179978
