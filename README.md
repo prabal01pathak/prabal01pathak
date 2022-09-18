@@ -2,7 +2,7 @@
 
 
 - 👋 I’m -prabal pathak
-- 👀 I’m interested in backend - Backend development, conding!!
+- 👀 I’m interested in backend - Backend development, coding!!
 - 🌱 I’m currently learning -  cloud computing.
 - 📫 you can reach to me  -  [![twitter][1.2]][1] or on  [![linkedin](icons/linkedin-3-16.png)](https://linkedin.com/in/prabal-pathak-9a27451b6) 
 
